@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.joshuahou.testwidget;
+package com.joshuahou.groverwidget;
 
 public final class R {
     public static final class attr {

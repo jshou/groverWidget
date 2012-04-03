@@ -1,4 +1,4 @@
-package com.joshuahou.testwidget;
+package com.joshuahou.groverwidget;
 
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
